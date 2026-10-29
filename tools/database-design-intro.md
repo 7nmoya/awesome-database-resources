@@ -10,7 +10,6 @@ conceptual models into relational structures.
 * **Relational Modeling** — Tables, primary keys, foreign keys, and constraints.
 
 # Practical Guides
-* Designing a Database
 * Designing ANSI/SPARC Architecure
 * From ER Diagrams to Relational Schemas
 * Understanding Normalization + How To Apply
