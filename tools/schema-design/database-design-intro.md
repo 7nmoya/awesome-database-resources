@@ -5,9 +5,9 @@ conceptual models into relational structures.
 # Topics
 * **ANSI/SPARC** — Architecture useful for Database Management Systems (DBMS).
 * **ER Diagrams** — Entity-relationship diagrams and relationship types.
-* **Schema Design Tools** — Tools for visualizing and documenting schemas.
 * **Normalization** — Normal forms, redundancy, and data integrity.
 * **Relational Modeling** — Tables, primary keys, foreign keys, and constraints.
+* **Schema Design Tools** — Tools for visualizing and documenting schemas.
 
 # Practical Guides
 * Designing ANSI/SPARC Architecure
