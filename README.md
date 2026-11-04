@@ -28,7 +28,7 @@ This repository focuses exclusively on databases and data modeling, including re
 General-purpose development resources are excluded unless they directly support database-related work.
 
 # Contributing
-Suggestions, corrections, and additional resources are more than welcome.
+Suggestions, corrections, and additional resources are more than welcome!
 
 Please read CONTRIBUTING.md before submitting a contribution.
 
