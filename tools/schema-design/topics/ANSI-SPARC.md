@@ -14,3 +14,4 @@ This level describes the database as a whole: what data is stored, how it is org
 
 ## Internal level (Physical View)
 This is the level closest to the hardware. It describes how the data is physically stored, including file structures, indexes, and storage methods.
+
